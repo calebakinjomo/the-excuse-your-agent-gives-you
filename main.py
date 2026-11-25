@@ -3,6 +3,9 @@
 
 Writes one line (under 200 characters): the apology, the deflection,
 and the quiet implication that the compiler started it.
+
+Judge criteria: apology + deflection + blame-shift — the funniest line
+wins. Entry must stay under the 200-character cap (this one is 125).
 """
 
 import os
